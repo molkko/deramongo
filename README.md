@@ -1,7 +1,7 @@
 DERA Financials data mongoDB database
 
 deramongo.sh
-downloads financial statement datasets from www.sec.gov/files/dera and builds a mongodb database
+downloads financial statement datasets from https://www.sec.gov/dera/data/financial-statement-data-sets.html and builds a mongodb database
 
 prerequisites for running this script successfully include:
 bash or similar shellscript, unzip, wget, mongo database, mongo client,
